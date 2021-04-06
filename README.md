@@ -8,4 +8,4 @@ It inlcudes managing the data, producing features, creating models and evaluatin
 
 Modules such as Pandas, Numpy and Sklearn were used in this project.
 
-This has been completed as part of CSC8111.
+This has been completed as part of CSC8111 Machine Learning.
