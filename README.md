@@ -6,4 +6,6 @@ The goal is to produce machine learning models which can predict to a certain ac
 
 It inlcudes managing the data, producing features, creating models and evaluating the performance through multiple metrics.
 
+Modules such as Pandas, Numpy and Sklearn were used in this project.
+
 This has been completed as part of CSC8111.
